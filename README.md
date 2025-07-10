@@ -1,7 +1,12 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="50"> <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" style="width:50px"/> 
+# Hello! 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="50" style="vertical-align: middle;"> 
+<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="50" style="vertical-align: middle;">  
 
-# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" style="width:40px"/> About Me:
-I'm a passionate Full Stack Developer student on a mission to build cool, meaningful stuff on the web. I'm ambitious, hungry to learn, and not afraid to get my hands dirty in code.<br><br>Currently diving deep into JavaScript, Sass,  and Frameworks, but always curious about what's next. I believe in clean code, constant learning, and shipping things that matter.<br><br>🚀 My goal? To become a rock-solid full stack dev who can take an idea from zero to production — and never stop growing along the way.<br><br>Let’s build something great.
+# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40" style="vertical-align: middle;"> About Me:
+I'm a passionate Full Stack Developer student on a mission to build cool, meaningful stuff on the web. I'm ambitious, hungry to learn, and not afraid to get my hands dirty in code.<br><br>
+Currently diving deep into JavaScript, Sass, and Frameworks, but always curious about what's next. I believe in clean code, constant learning, and shipping things that matter.<br><br>
+🚀 My goal? To become a rock-solid full stack dev who can take an idea from zero to production — and never stop growing along the way.<br><br>
+Let’s build something great.
 
 
 # 💻 Tech Stack:
