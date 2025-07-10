@@ -1,6 +1,4 @@
-# Hello! 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="50" style="vertical-align: middle;"> 
-<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="50" style="vertical-align: middle;">  
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hello" width="50" style="vertical-align: middle;">  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="50" style="vertical-align: middle;">  
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40" style="vertical-align: middle;"> About Me:
 I'm a passionate Full Stack Developer student on a mission to build cool, meaningful stuff on the web. I'm ambitious, hungry to learn, and not afraid to get my hands dirty in code.<br><br>
